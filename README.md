@@ -47,7 +47,7 @@ These are the accuracies of the algorithms:
 
 ## Author
 
-- [@](https://github.com/sandipanrakshit34)
+- [@Amitkmr948](https://github.com/Amitkmr948)
 
 ##
 
