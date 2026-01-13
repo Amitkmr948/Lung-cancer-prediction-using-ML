@@ -1,5 +1,5 @@
 # Lung-Cancer-Prediction-Using-Machine-Learning
-<center> <img src = "https://github.com/sandipanrakshit34/Lung-Cancer-Prediction-Using-Machine-Learning/blob/main/pngtree-lungs-with-the-ligh.jpg" width = 100%>
+<center> <img src = "https://github.com/Amitkmr948/Lung-cancer-prediction-using-ML/blob/56ed57312d91217f89011ec9a4d7d60bb9f31caa/pngtree-lungs-with-the-ligh.jpg" width = 100%>
 
   ## Aim:
 
